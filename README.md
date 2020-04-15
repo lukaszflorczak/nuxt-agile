@@ -2,6 +2,8 @@
 
 > Demo of vue-agile carousel component with Nuxt.js and SSR
 
+For detailed explanation on how component works, visit [vue-agile repository](https://github.com/lukaszflorczak/vue-agile).
+
 ![](https://muuteam.com/nuxt-agile.png)
 
 ## Run demo
@@ -12,5 +14,4 @@ $ yarn install
 
 # serve with hot reload at localhost:3000
 $ yarn dev
-
-For detailed explanation on how component works, visit [vue-agile repository](https://github.com/lukaszflorczak/vue-agile).
+```
