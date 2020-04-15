@@ -2,6 +2,8 @@
 
 > Demo of vue-agile carousel component with Nuxt.js and SSR
 
+![](https://muuteam.com/nuxt-agile.png)
+
 ## Run demo
 
 ```bash
