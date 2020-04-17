@@ -5,7 +5,7 @@
       nuxt-agile
     </h1>
     <h2 class="subtitle">
-      Nuxt app for vue-agile carousel component
+      Demo of VueAgile carousel & Nuxt.js with SSR
     </h2>
 
     <div class="row">
