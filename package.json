@@ -1,7 +1,7 @@
 {
   "name": "nuxt-agile",
   "version": "1.0.0",
-  "description": "Nuxt app for vue-agile component tests",
+  "description": "Nuxt app with vue-agile SSR demo",
   "author": "Łukasz Florczak",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "nuxt": "^2.0.0",
-    "vue-agile": "https://github.com/lukaszflorczak/vue-agile.git/#dev/ssr-support"
+    "vue-agile": "^1.1.0"
   },
   "devDependencies": {
     "node-sass": "^4.13.1",
